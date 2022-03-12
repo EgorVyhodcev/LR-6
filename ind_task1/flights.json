@@ -1,0 +1,17 @@
+[
+    {
+        "flight_destination": "Argtjds",
+        "flight_number": "AR362",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Kazakhstan",
+        "flight_number": "KZ189",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "HDfjdjd",
+        "flight_number": "HM234",
+        "airplane_type": "Military"
+    }
+]
